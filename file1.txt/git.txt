@@ -1,0 +1,13 @@
+git branch
+ls -l
+notepad
+mkdir 
+git status
+git add .
+git add --all
+git status
+git clone
+
+
+
+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
